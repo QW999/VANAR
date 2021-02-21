@@ -1,0 +1,5 @@
+
+Salad|65.00
+Soup|55.00
+Burgher|60.00
+Cheese|30.00

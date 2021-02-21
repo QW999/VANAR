@@ -1,0 +1,11 @@
+
+{
+  "name": "Tom Sawyer",
+  "dob": 1970,
+  "address": {
+    "city": "London",
+    "country": "UK"
+  },
+  "tel": [112, 911]
+}
+
